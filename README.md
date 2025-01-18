@@ -1,4 +1,4 @@
-# target challenge
+# Desafio target
 
 ## Exercício 1
 Observe o trecho de código abaixo:
